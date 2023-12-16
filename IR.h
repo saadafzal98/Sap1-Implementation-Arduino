@@ -1,5 +1,4 @@
-// Instruction Register Module
-
+//Instruction register
 void writeToInstructionRegister(int decimal) {
   digitalWrite(10, HIGH);
   for (int i = 6; i <= 33; ++i) {
