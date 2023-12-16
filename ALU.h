@@ -1,5 +1,3 @@
-// ALU Module
-
 void executeALU(int opcode, int operand) {
   switch (opcode) {
     case 1:
