@@ -1,5 +1,3 @@
-// Register B Module
-
 void loadToBRegister(int operand) {
   digitalWrite(A4, LOW);
   digitalWrite(A8, HIGH);
