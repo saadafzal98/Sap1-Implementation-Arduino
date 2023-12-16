@@ -1,6 +1,5 @@
 // Memory Module
 
-// RAM of the SAP-1
 int ram[16][8] = {
   //   opcode  |  operand
   {0, 0, 0, 0, 0, 0, 0, 0}, // address: 0
