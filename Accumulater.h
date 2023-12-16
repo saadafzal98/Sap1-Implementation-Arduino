@@ -1,5 +1,3 @@
-// Accumulator Module
-
 void loadAccumulator(int operand) {
   digitalWrite(A1, LOW);
   for (int i = 14; i <= 21; ++i) {
