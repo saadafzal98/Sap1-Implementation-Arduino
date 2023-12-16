@@ -1,6 +1,5 @@
 #include <Arduino.h>
 
-// Include separate modules
 #include "ram.h"
 #include "Accumulater.h"
 #include "PC.h"
